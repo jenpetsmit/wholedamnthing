@@ -1,0 +1,13 @@
+mkdocs.yml
+site_name: My Docs AND YOUR DOCS Rocking it
+site_url: https://example.com/
+
+nav:
+  - Home: 'index.md'
+  - 'User Guide':
+      -'Writing your docs': 'writing-your-docs.md'
+      -'Styling your docs': 'styling-your-docs.md'
+    - About: 'about.md'
+    - Onboarding:
+      - 'Onboarding/'
+      - 'License to kill'
