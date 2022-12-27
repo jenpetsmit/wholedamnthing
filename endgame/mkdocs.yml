@@ -1,7 +1,7 @@
 #I think this is mikes
 
 cat mkdocs.yml
-site_name: Smoke Break
+site_name: grid data quality AWS documentation
 # nav:
 #   - Home: index.md
 #   - Onboarding:
