@@ -1,6 +1,5 @@
-# testyml
 cat mkdocs.yml
-site_name: Smoke Break - Don't eat the donunts
+site_name: grid data quality AWS documentation
 # nav:
 #   - Home: index.md
 #   - Onboarding:
@@ -25,4 +24,4 @@ markdown_extensions:
     anchor_linenums: true
     - pymdownx.inlinehilite
     - pymdownx.snippets
-    - pymdownx.superfences#
+    - pymdownx.superfences
