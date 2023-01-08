@@ -1,5 +1,3 @@
-#I think this is mikes
-
 cat mkdocs.yml
 site_name: grid data quality AWS documentation
 # nav:
